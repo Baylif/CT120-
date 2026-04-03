@@ -1,0 +1,26 @@
+New quarter with CT120!! YAYYY!!
+
+Feelings going into the quarter: I was scared tbh. CT20 wasnt necessarily hard, it was just a super different way of thinking, and required attention to detail which i do not jave. Either
+way, I passed with an A and completed my goal of fully finishing each project set up. I actually really like this new quarter with the weekly practices, I feel like it will def keep my 
+inertia for this class up and allows me to practice different things, but honestly I am a little scared about them just because my weeks this quarter are so busy and it takes me a long
+time to grasp new concepts. But i will do my best and move forward. 
+
+Week 1: Tuesday was cool going over the syllabus, I like the layout for the new class and was actually really excited for the first week assignment because I really wanted to go back and
+upgrade my Project #3. A little nervous for how much I can do with it because my Saturday is fully booked and sunday i have like an 8hr practice, but once again, I will do my best! Thursday
+was nice. i really liked the review, but got a little scared because I got pretty lost at a certain point so what i did was just look at what I did know the professor was doing or the familiar
+lines of code on the screen, and worked my way from there. Something is always better than nothing. When we split into breakout rooms i actually got to talk to professor about the little 
+bugs in my code and he very quickly pointed out they were small mistakes and nothing to be worried about. I am a little worried though, for like 2 weeks the only thing missing was a comma 
+[Skull Emoji]
+
+Here is some code I updated for the first weekly assignment:
+
+ push();
+    stroke(C);
+    strokeWeight(thickness);
+
+    line(50, y, 550, y);
+    pop();
+    y += 11;
+  Push and pop were in order to remove the blue border around my contour shape, Stern recomended this over a noStroke(color) because apparently it runs the code better? IDK how but I trust
+him.
+I obviously added more JSON data, heres some of it,
